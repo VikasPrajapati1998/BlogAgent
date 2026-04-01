@@ -40,6 +40,6 @@ def explain_directory(path, indent=""):
 
 if __name__ == "__main__":
     # dir_path = r"D:\Study\LangGraph\Workflow_27_BlogWriter\Frontend"
-    dir_path = r"D:\Study\LangGraph\Workflow_27_BlogWriter\Backend\Blogs"
+    dir_path = r"D:\Github-Vikas\BlogAgent"
     print(f"Directory tree for: {dir_path}\n")
     explain_directory(dir_path)
