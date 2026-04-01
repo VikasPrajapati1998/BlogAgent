@@ -1,6 +1,7 @@
 __pycache__
 _*
 __*
+.env
 .git
 node_modules
 venv
